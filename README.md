@@ -1,4 +1,4 @@
-# MacInfo _**macOS System Information Dialog**_
+# MacInfo
 
 MacInfo is a lightweight shell script that leverages [SwiftDialog](https://github.com/swiftDialog/) and built‑in macOS commands to present key device details in a clean, interactive dialog. Perfect for HelpDesk agents who need to quickly gather system info during support calls. Tested in Jamf Pro but compatible with any MDM.
 
